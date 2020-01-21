@@ -1,0 +1,10 @@
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/parallel-programming-repo/Laboratory/prog04.3_SendMessage04AllTypes/src$ mpiexec -n 6 ./SendMessageAllTypes
+Mensajes recibidos por el proceso_0 
+Proc_1 su mensaje es: Adelante San Marcos Glorioso, Adelante tu siempre ...
+Proc_2 su mensaje es: 20
+Proc_3 su mensaje es: 3.14152
+Proc_4 su mensaje es: 3.32
+Proc_5 su mensaje es: 9223372036854775807
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/parallel-programming-repo/Laboratory/prog04.3_SendMessage04AllTypes/src$ ^C
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/parallel-programming-repo/Laboratory/prog04.3_SendMessage04AllTypes/src$ 
+
