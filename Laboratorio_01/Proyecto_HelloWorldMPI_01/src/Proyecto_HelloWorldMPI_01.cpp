@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : Proyecto_HelloWorldMPI_01.c
- Author      : Vieri Garcia
+ Author      : Leslie Tovar
  Version     :
  Copyright   : Your copyright notice
  Description : Compute Pi in MPI C++
