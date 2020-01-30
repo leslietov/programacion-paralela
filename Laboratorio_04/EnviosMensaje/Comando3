@@ -1,6 +1,0 @@
-laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/parallel-programming-repo/Laboratory/prog04.3_SendMessage04AllTypes/src$ mpiCC -g -Wall -o SendMessageAllTypes SendMessageAllTypes.cpp
-laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/parallel-programming-repo/Laboratory/prog04.3_SendMessage04AllTypes/src$ mpiexec -n 10 ./SendMessageAllTypes
-With n = 10240000 trapezoids, our estimate
-of the integral from 0.000000 to 3.000000 = 8.999999999999964e+00
-laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/parallel-programming-repo/Laboratory/prog04.3_SendMessage04AllTypes/src$ 
-
