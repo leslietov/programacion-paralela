@@ -1,0 +1,7 @@
+gcc -g -Wall -o programa00-01 programa00-01.c -lpthread
+./programa00-01 3
+Hello from thread 0 of 3
+Hello from thread 1 of 3
+Hello from the main thread
+Hello from thread 2 of 3
+
