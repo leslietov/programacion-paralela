@@ -1,0 +1,10 @@
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/prog02-PI/src$ gcc -g -Wall -o pth_pi_busy1 pth_pi_busy1.c -lm -lpthread
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/prog02-PI/src$ ./pth_pi_busy1 4 200
+With n = 200 terms,
+   Multi-threaded estimate of pi  = 3.136592684838815
+   Elapsed time = 1.599789e-04 seconds
+   Single-threaded estimate of pi = 3.136592684838816
+   Elapsed time = 9.536743e-07 seconds
+   Math library estimate of pi    = 3.141592653589793
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/prog02-PI/src$ 
+
