@@ -1,0 +1,13 @@
+gcc -g -Wall -o prog01-multimatrixvector prog01-multimatrixvector.c -lpthread
+./prog01-multimatrixvector 3
+Enter m and n
+3
+2
+Enter the matrix
+We read
+105.0 239.0 
+199.0 175.0 
+29.0 14.0 
+Enter the vector
+
+
