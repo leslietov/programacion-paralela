@@ -1,0 +1,8 @@
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/parallel-programming-repo/Laboratory/prog05.1_Trapezoid/src$ mpicc -g -Wall -o mpi_trap3 mpi_trap3.c
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/parallel-programming-repo/Laboratory/prog05.1_Trapezoid/src$ mpiexec -n 4 ./mpi_trap3
+Enter a, b, and n
+0 3 3000
+With n = 3000 trapezoids, our estimate
+of the integral from 0.000000 to 3.000000 = 9.000000500000002e+00
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/parallel-programming-repo/Laboratory/prog05.1_Trapezoid/src$ 
+

@@ -1,0 +1,7 @@
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/MUTEX/src$ gcc -g -Wall -o MUTEX MUTEX.c  -lm -lpthread
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/MUTEX/src$ ./MUTEX 4
+With n = 3000 terms,
+   Our estimate = 9.000000500000002
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/MUTEX/src$ ^C
+laboratorio-fisi@laboratoriofisi-B85H3-M:~/eclipse-workspace/MUTEX/src$ 
+
